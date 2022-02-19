@@ -1,7 +1,13 @@
 body {
-    background-color: rgb(242, 212, 212);
+    background-color: rgb(194,225,194);
     text-align: center;
+    font-family: Montserrat, sans-serif;
     
+}
+
+.nome {
+    font-family: Dancing Script , sans-serif;
+    font-weight: 550 ;
 }
 
 .titulosessao {
